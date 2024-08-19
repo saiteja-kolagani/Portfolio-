@@ -1,0 +1,38 @@
+.nav-item-container {
+  display: flex;
+  align-items: center;
+}
+
+.about-activity {
+  display: flex;
+  align-items: center;
+}
+
+.tech-icons-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.position-btn-container {
+  display: flex;
+  align-items: center;
+}
+
+.download-btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-block: 6px;
+}
+
+.my-image-container {
+  border-top: 1px solid #20eee4;
+  border-radius: 16px;
+  border-bottom: 1px solid #20eee4;
+}
+
+.my-image {
+  margin: auto;
+}

@@ -1,0 +1,9 @@
+.custom-carousel {
+  width: 100px;
+  height: 80px;
+  margin: 0 auto;
+}
+.custom-carousel img {
+  max-height: 400px; /* Ensure images do not exceed the max height */
+  object-fit: contain; /* Adjust image fitting */
+}

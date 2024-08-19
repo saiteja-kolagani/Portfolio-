@@ -1,0 +1,30 @@
+.card-title-font {
+  font-size: 14px;
+}
+
+.view-link-cert-card {
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.certs-container {
+  margin-right: 0px;
+}
+
+.slick-dots li button:before {
+  color: #d38ef5;
+  opacity: 1;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #af2fed;
+  opacity: 1;
+}
+
+.slick-next:before {
+  color: #af2fed;
+}
+
+.slick-prev:before {
+  color: #af2fed; 
+}
