@@ -36,6 +36,7 @@ function NavBar() {
       fixed="top"
       expand="md"
       className={navColour ? 'sticky' : 'navbar'}
+      style={{margin: '0px'}}
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
@@ -89,7 +90,7 @@ function NavBar() {
                   <AiOutlineFundProjectionScreen
                     style={{marginBottom: '2px', marginRight: '5px'}}
                   />{' '}
-                  Projects & Certifications
+                  Projects & Certs
                 </div>
               </Nav.Link>
             </Nav.Item>
