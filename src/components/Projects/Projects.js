@@ -19,6 +19,26 @@ function Projects() {
         <Row style={{justifyContent: 'center', paddingBottom: '10px'}}>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath="https://res.cloudinary.com/djszbumd6/image/upload/v1724836931/Screenshot_2024-08-28_145148_wdteuv.png"
+              isBlog={false}
+              title="The Daily Blog"
+              description="Developed a full-stack blogging platform using the MERN stack, featuring user authentication, post creation, editing, and deletion capabilities. Implemented JWT-based authentication for secure user sessions and role-based access control for post management. The platform includes a responsive user interface designed with React and Material-UI, supporting light/dark modes for enhanced accessibility across devices. The backend was deployed on Render, while the frontend was hosted on Vercel, utilizing SQLite for efficient data storage and management. Key technologies include React.js, Material-UI, React Router, JS-Cookie, React Loader Spinner, Node.js, Express.js, SQLite, JWT, bcrypt.js, dotenv, and date-fns."
+              ghLink="https://github.com/saiteja-kolagani/The-Daily-Blog-Client.git"
+              demoLink="https://thedailyblog.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath="https://res.cloudinary.com/djszbumd6/image/upload/v1724838685/Screenshot_2024-08-28_152113_yabg9c.png"
+              isBlog={false}
+              title="The Task Management System"
+              description="Developed a backend system for task management with user authentication and role-based access control using Node.js and Express.js. Implemented JWT-based authentication for secure user sessions and tailored task management features based on roles (Admin, Manager, Team Lead, Developer). The system supports task creation, retrieval, updating, and deletion, with advanced filtering by priority, status, and assigned user. Integrated SQLite with TypeORM for efficient data storage and database migrations. Deployed on Render for real-world accessibility and scalability. Key technologies include Node.js, Express.js, TypeORM, SQLite, JWT, bcrypt.js, dotenv, and Postman for API testing."
+              ghLink="https://github.com/saiteja-kolagani/The-Daily-Blog-Client.git"
+              demoLink="https://thedailyblog.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath="https://res.cloudinary.com/dmy1fpyxm/image/upload/v1721892822/Screenshot_2024-07-25_130207_e9mopg.png"
               isBlog={false}
               title="Notes App"

@@ -2,7 +2,7 @@ import {Col, Row} from 'react-bootstrap'
 import {FaWindows, FaGithub} from 'react-icons/fa'
 import {TbBrandVscode} from 'react-icons/tb'
 import {DiLinux} from 'react-icons/di'
-import {SiPostman, SiRender, SiFirebase} from 'react-icons/si'
+import {SiPostman, SiRender, SiFirebase, SiVercel} from 'react-icons/si'
 
 import '../positions.css'
 
@@ -46,6 +46,14 @@ function Toolstack() {
           <SiRender style={{marginBottom: '8px'}} />
           <h4 style={{fontSize: '16px'}} className="purple">
             Render
+          </h4>
+        </div>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <div className="tech-icons-container">
+          <SiVercel style={{marginBottom: '8px'}} />
+          <h4 style={{fontSize: '16px'}} className="purple">
+            Vercel
           </h4>
         </div>
       </Col>

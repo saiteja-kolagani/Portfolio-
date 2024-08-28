@@ -14,6 +14,7 @@ import {CgFileDocument} from 'react-icons/cg'
 import {FaWhatsapp} from 'react-icons/fa'
 
 import './positions.css'
+import '../style.css'
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false)
