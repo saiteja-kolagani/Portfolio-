@@ -466,7 +466,10 @@ packages:
       '@babel/core': 7.24.7
       '@babel/helper-create-class-features-plugin': 7.24.7_@babel+core@7.24.7
       '@babel/helper-plugin-utils': 7.24.7
-    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-class-properties instead.
+    deprecated:
+      This proposal has been merged to the ECMAScript standard and thus this
+      plugin is no longer maintained. Please use
+      @babel/plugin-transform-class-properties instead.
     dev: false
     engines:
       node: '>=6.9.0'
@@ -492,7 +495,10 @@ packages:
       '@babel/core': 7.24.7
       '@babel/helper-plugin-utils': 7.24.7
       '@babel/plugin-syntax-nullish-coalescing-operator': 7.8.3_@babel+core@7.24.7
-    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-nullish-coalescing-operator instead.
+    deprecated:
+      This proposal has been merged to the ECMAScript standard and thus this
+      plugin is no longer maintained. Please use
+      @babel/plugin-transform-nullish-coalescing-operator instead.
     dev: false
     engines:
       node: '>=6.9.0'
@@ -505,7 +511,10 @@ packages:
       '@babel/core': 7.24.7
       '@babel/helper-plugin-utils': 7.24.7
       '@babel/plugin-syntax-numeric-separator': 7.10.4_@babel+core@7.24.7
-    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-numeric-separator instead.
+    deprecated:
+      This proposal has been merged to the ECMAScript standard and thus this
+      plugin is no longer maintained. Please use
+      @babel/plugin-transform-numeric-separator instead.
     dev: false
     engines:
       node: '>=6.9.0'
@@ -519,7 +528,10 @@ packages:
       '@babel/helper-plugin-utils': 7.24.7
       '@babel/helper-skip-transparent-expression-wrappers': 7.24.7
       '@babel/plugin-syntax-optional-chaining': 7.8.3_@babel+core@7.24.7
-    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-optional-chaining instead.
+    deprecated:
+      This proposal has been merged to the ECMAScript standard and thus this
+      plugin is no longer maintained. Please use
+      @babel/plugin-transform-optional-chaining instead.
     dev: false
     engines:
       node: '>=6.9.0'
@@ -532,7 +544,10 @@ packages:
       '@babel/core': 7.24.7
       '@babel/helper-create-class-features-plugin': 7.24.7_@babel+core@7.24.7
       '@babel/helper-plugin-utils': 7.24.7
-    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-private-methods instead.
+    deprecated:
+      This proposal has been merged to the ECMAScript standard and thus this
+      plugin is no longer maintained. Please use
+      @babel/plugin-transform-private-methods instead.
     dev: false
     engines:
       node: '>=6.9.0'
@@ -556,7 +571,10 @@ packages:
       '@babel/helper-create-class-features-plugin': 7.24.7
       '@babel/helper-plugin-utils': 7.24.7
       '@babel/plugin-syntax-private-property-in-object': 7.14.5
-    deprecated: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-private-property-in-object instead.
+    deprecated:
+      This proposal has been merged to the ECMAScript standard and thus this
+      plugin is no longer maintained. Please use
+      @babel/plugin-transform-private-property-in-object instead.
     dev: true
     engines:
       node: '>=6.9.0'
@@ -6538,7 +6556,10 @@ packages:
     dependencies:
       once: 1.4.0
       wrappy: 1.0.2
-    deprecated: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+    deprecated:
+      This module is not supported, and leaks memory. Do not use it. Check out
+      lru-cache if you want a good and tested way to coalesce async requests by
+      a key value, which is much more comprehensive and powerful.
     resolution:
       integrity: sha512-k92I/b08q4wvFscXCLvqfsHCrjrF7yiXsQuIVvVE7N82W3+aqpzuUdBbfhWcy/FZR3/4IgflMgKLOsvPDrGCJA==
   /inherits/2.0.3:
@@ -10144,7 +10165,9 @@ packages:
       rollup: 2.79.1
       serialize-javascript: 4.0.0
       terser: 5.31.1
-    deprecated: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-terser
+    deprecated:
+      This package has been deprecated and is no longer maintained. Please use
+      @rollup/plugin-terser
     dev: false
     peerDependencies:
       rollup: ^2.0.0
@@ -10549,7 +10572,10 @@ packages:
     resolution:
       integrity: sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==
   /stable/0.1.8:
-    deprecated: 'Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility'
+    deprecated:
+      'Modern JS already guarantees Array#sort() is a stable sort, so this
+      library is deprecated. See the compatibility table on MDN:
+      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility'
     dev: false
     resolution:
       integrity: sha512-ji9qxRnOVfcuLDySj9qzhGSEFVobyt1kIOSkj1qZzYLzq7Tos/oUUWvotUPQLlrsidqsK6tBH89Bc9kL5zHA6w==
@@ -11126,7 +11152,9 @@ packages:
     resolution:
       integrity: sha512-xNvxJEOUiWPGhUuUdQgAJPKOOJfGnIyKySOc09XkKsgdUV/3E2zvwZYdejjmRgPCgcym1juLH3226yA7sEFJKQ==
   /tsparticles/1.43.1:
-    deprecated: tsParticles v3 is out, it contains breaking changes and it's recommended to migrate to that version with fixes and new features
+    deprecated:
+      tsParticles v3 is out, it contains breaking changes and it's recommended
+      to migrate to that version with fixes and new features
     dev: false
     requiresBuild: true
     resolution:
@@ -11138,7 +11166,9 @@ packages:
     engines:
       node: '>= 6'
     peerDependencies:
-      typescript: '>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta'
+      typescript:
+        '>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev
+        || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta'
     resolution:
       integrity: sha512-mHKK3iUXL+3UF6xL5k0PEhKRUBKPBCv/+RkEOpjRWxxx27KKRBmmA60A9pgOUvMi8GKhRMPEmjBRPzs2W7O1OA==
   /type-check/0.3.2:
@@ -11421,7 +11451,8 @@ packages:
   /w3c-hr-time/1.0.2:
     dependencies:
       browser-process-hrtime: 1.0.0
-    deprecated: Use your platform's native performance.now() and performance.timeOrigin.
+    deprecated:
+      Use your platform's native performance.now() and performance.timeOrigin.
     dev: false
     resolution:
       integrity: sha512-z8P5DvDNjKDoFIHK7q8r8lackT6l+jo/Ye3HOle7l9nICP9lf1Ci25fy9vHd0JOWewkIFzXIEig3TdKT7JQ5fQ==
@@ -11810,7 +11841,10 @@ packages:
       workbox-core: 6.6.0
       workbox-routing: 6.6.0
       workbox-strategies: 6.6.0
-    deprecated: It is not compatible with newer versions of GA starting with v4, as long as you are using GAv3 it should be ok, but the package is not longer being maintained
+    deprecated:
+      It is not compatible with newer versions of GA starting with v4, as long
+      as you are using GAv3 it should be ok, but the package is not longer being
+      maintained
     dev: false
     resolution:
       integrity: sha512-p4DJa6OldXWd6M9zRl0H6vB9lkrmqYFkRQ2xEiNdBFp9U0LhsGO7hsBscVEyH9H2/3eZZt8c97NB2FD9U2NJ+Q==

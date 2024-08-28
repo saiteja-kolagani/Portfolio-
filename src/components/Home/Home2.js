@@ -2,7 +2,7 @@ import {Container, Row, Col} from 'react-bootstrap'
 import Tilt from 'react-parallax-tilt'
 import {AiFillGithub} from 'react-icons/ai'
 import {FaLinkedinIn} from 'react-icons/fa'
-import {BsTwitterX} from 'react-icons/bs'
+import {BsTwitter} from 'react-icons/bs'
 
 import '../positions.css'
 
@@ -85,7 +85,7 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <BsTwitterX />
+                  <BsTwitter />
                 </a>
               </li>
               <li className="social-icons">

@@ -1,7 +1,7 @@
 import {Container, Row, Col} from 'react-bootstrap'
 import {AiFillGithub} from 'react-icons/ai'
 import {FaLinkedinIn} from 'react-icons/fa'
-import {BsTwitterX} from 'react-icons/bs'
+import {BsTwitter} from 'react-icons/bs'
 
 function Footer() {
   let date = new Date()
@@ -34,7 +34,7 @@ function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <BsTwitterX />
+                <BsTwitter />
               </a>
             </li>
             <li className="social-icons">

@@ -1,68 +1,68 @@
 [
-    {
-        "id": "TFPOPMBHPW",
-        "name": "Developer Foundations",
-        "link": "https://certificates.ccbp.in/academy/developer-foundations?id=TFPOPMBHPW",
-        "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458106/Certs%20Images/vgncvrolthda5i9oq3ps.png"
-    },
-    {
-        "id": "ZQDQXUYORV",
-        "name": "JavaScript Essentials",
-        "link": "https://certificates.ccbp.in/academy/javascript-essentials?id=ZQDQXUYORV",
-        "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458106/Certs%20Images/wplzsjo5jcup5mkakfmt.png"
-    },
-    {
-        "id": "DMPIYJHLEP",
-        "name": "Programming Foundations with Python",
-        "link": "https://certificates.ccbp.in/academy/programming-foundations-with-python?id=DMPIYJHLEP",
-        "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/mbhiqvtixmkpykj7pjtn.png"
-    },
-    {
-        "id": "COFIBTXFFV",
-        "name": "Introduction to Databases",
-        "link": "https://certificates.ccbp.in/academy/introduction-to-databases?id=COFIBTXFFV",
-        "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/gotjrmhqtz23gyutnfjp.png"
-    },
-    {
-        "id": "7cc2bfbbaa4b",
-        "name": "Python",
-        "link": "https://www.hackerrank.com/certificates/7cc2bfbbaa4b",
-        "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/iqjrqiwvshj84zks0nec.png"
-    },
-    {
-        "id": "4C2762B2-69FF-B734-668B-ABB1512523CF",
-        "name": "Data Structures & Algorithms",
-        "link": "https://trainings.internshala.com/view_certificate/F3C8807A-A37D-F86F-A1FC-3BE59CE44FC0/4C2762B2-69FF-B734-668B-ABB1512523CF/",
-        "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/vrablrlzq5ghugt4mbqo.png"
-    },
-    {
-        "id": "23yhyz7j11p",
-        "name": "Cloud Computing With AWS",
-        "link": "https://trainings.internshala.com/view_certificate/AD7387B8-375E-27A5-3A49-9F94A155E25C/23yhyz7j11p/",
-        "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/fw8efxr1y940s3dlnbxc.png"
-    },
-    {
-        "id": "BJKFIYAMRC",
-        "name": "Build Your Own Dynamic Web Application",
-        "link": "https://certificates.ccbp.in/academy/dynamic-web-application?id=BJKFIYAMRC",
-        "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/fiqetgrsof7jlnorgecf.png"
-    },
-    {
-        "id": "UKCTTMTCLZ",
-        "name": "Responsive Web Design using Flexbox",
-        "link": "https://certificates.ccbp.in/academy/responsive-web-design-using-flexbox?id=UKCTTMTCLZ",
-        "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/pkbqjetmojducaw0rsqo.png"
-    },
-    {
-        "id": "NTCTUBETGB",
-        "name": "Build Your Own Responsive Website",
-        "link": "https://certificates.ccbp.in/academy/build-your-own-responsive-website?id=NTCTUBETGB",
-        "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/ubinvwcesa44vg9bwd8r.png"
-    },
-    {
-        "id": "QDZBAYJCPO",
-        "name": "Build Your Own Static Website",
-        "link": "https://certificates.ccbp.in/academy/static-website?id=QDZBAYJCPO",
-        "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/tysxtdcjjvjy3ryszchu.png"
-    }
+  {
+    "id": "TFPOPMBHPW",
+    "name": "Developer Foundations",
+    "link": "https://certificates.ccbp.in/academy/developer-foundations?id=TFPOPMBHPW",
+    "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458106/Certs%20Images/vgncvrolthda5i9oq3ps.png"
+  },
+  {
+    "id": "ZQDQXUYORV",
+    "name": "JavaScript Essentials",
+    "link": "https://certificates.ccbp.in/academy/javascript-essentials?id=ZQDQXUYORV",
+    "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458106/Certs%20Images/wplzsjo5jcup5mkakfmt.png"
+  },
+  {
+    "id": "DMPIYJHLEP",
+    "name": "Programming Foundations with Python",
+    "link": "https://certificates.ccbp.in/academy/programming-foundations-with-python?id=DMPIYJHLEP",
+    "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/mbhiqvtixmkpykj7pjtn.png"
+  },
+  {
+    "id": "COFIBTXFFV",
+    "name": "Introduction to Databases",
+    "link": "https://certificates.ccbp.in/academy/introduction-to-databases?id=COFIBTXFFV",
+    "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/gotjrmhqtz23gyutnfjp.png"
+  },
+  {
+    "id": "7cc2bfbbaa4b",
+    "name": "Python",
+    "link": "https://www.hackerrank.com/certificates/7cc2bfbbaa4b",
+    "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/iqjrqiwvshj84zks0nec.png"
+  },
+  {
+    "id": "4C2762B2-69FF-B734-668B-ABB1512523CF",
+    "name": "Data Structures & Algorithms",
+    "link": "https://trainings.internshala.com/view_certificate/F3C8807A-A37D-F86F-A1FC-3BE59CE44FC0/4C2762B2-69FF-B734-668B-ABB1512523CF/",
+    "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/vrablrlzq5ghugt4mbqo.png"
+  },
+  {
+    "id": "23yhyz7j11p",
+    "name": "Cloud Computing With AWS",
+    "link": "https://trainings.internshala.com/view_certificate/AD7387B8-375E-27A5-3A49-9F94A155E25C/23yhyz7j11p/",
+    "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/fw8efxr1y940s3dlnbxc.png"
+  },
+  {
+    "id": "BJKFIYAMRC",
+    "name": "Build Your Own Dynamic Web Application",
+    "link": "https://certificates.ccbp.in/academy/dynamic-web-application?id=BJKFIYAMRC",
+    "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/fiqetgrsof7jlnorgecf.png"
+  },
+  {
+    "id": "UKCTTMTCLZ",
+    "name": "Responsive Web Design using Flexbox",
+    "link": "https://certificates.ccbp.in/academy/responsive-web-design-using-flexbox?id=UKCTTMTCLZ",
+    "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/pkbqjetmojducaw0rsqo.png"
+  },
+  {
+    "id": "NTCTUBETGB",
+    "name": "Build Your Own Responsive Website",
+    "link": "https://certificates.ccbp.in/academy/build-your-own-responsive-website?id=NTCTUBETGB",
+    "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/ubinvwcesa44vg9bwd8r.png"
+  },
+  {
+    "id": "QDZBAYJCPO",
+    "name": "Build Your Own Static Website",
+    "link": "https://certificates.ccbp.in/academy/static-website?id=QDZBAYJCPO",
+    "image": "https://res.cloudinary.com/djszbumd6/image/upload/v1723458105/Certs%20Images/tysxtdcjjvjy3ryszchu.png"
+  }
 ]
