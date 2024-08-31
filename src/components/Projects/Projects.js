@@ -19,6 +19,17 @@ function Projects() {
         <Row style={{justifyContent: 'center', paddingBottom: '10px'}}>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath="https://res.cloudinary.com/djszbumd6/image/upload/v1725070002/Screenshot_2024-08-31_073443_xbawpp.png"
+              isBlog={false}
+              title="Never Settle"
+              description="Never Settle is a fully-featured eCommerce platform that I developed and redesigned using the MERN stack. The project includes a streamlined admin dashboard for managing products, orders, and users, along with a secure user registration and login system to provide a personalized shopping experience. I focused on creating an intuitive cart management system and efficient product management tools, all wrapped in a modern UI/UX design aimed at enhancing user engagement. The backend is robustly deployed on Render, while the frontend benefits from the speed and reliability of Vercel."
+              ghLink="https://github.com/saiteja-kolagani/Never-Settle.git"
+              demoLink="https://never-settle.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath="https://res.cloudinary.com/djszbumd6/image/upload/v1724836931/Screenshot_2024-08-28_145148_wdteuv.png"
               isBlog={false}
               title="The Daily Blog"
@@ -45,17 +56,6 @@ function Projects() {
               description="Developed features for creating, updating, archiving, and deleting notes, including multi-tag support and background color customization. Integrated user registration and login with JWT authentication to ensure secure access and data protection. Deployed the application on Render with a cloud-based MongoDB Atlas database, providing robust and scalable data storage."
               ghLink="https://github.com/saiteja-kolagani/Apsona-Assignment.git"
               demoLink="https://apsona-assignment-405d.onrender.com/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath="https://res.cloudinary.com/dmy1fpyxm/image/upload/v1719832345/Screenshot_2024-07-01_164042_cgtfyg.png"
-              isBlog={false}
-              title="Never Settle"
-              description="Developed an e-commerce store that achieved a 40% increase in user engagement. Integrated essential features such as product browsing, cart management, and user authentication. Focused on user-centric design to enhance user interaction and overall experience. Username='rahul' Password='rahul@2021'"
-              ghLink="https://github.com/saiteja-kolagani/Never-Settle-Upgrade-Yourself-.git"
-              demoLink="https://neversettle.ccbp.tech/login"
             />
           </Col>
 
