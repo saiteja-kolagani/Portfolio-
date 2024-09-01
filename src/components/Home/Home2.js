@@ -53,7 +53,7 @@ function Home2() {
             <Tilt>
               <div className="my-image-container">
                 <img
-                  src="https://res.cloudinary.com/dmy1fpyxm/image/upload/v1719823954/1000052942-photoaidcom-cropped_mqolhz.png"
+                  src="https://res.cloudinary.com/djszbumd6/image/upload/v1725210772/IMG_20240812_115500-photoaidcom-cropped_jsoqay.png"
                   className="img-fluid-my-image img-fluid my-image"
                   alt="avatar"
                 />
