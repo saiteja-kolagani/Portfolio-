@@ -19,6 +19,17 @@ function Projects() {
         <Row style={{justifyContent: 'center', paddingBottom: '10px'}}>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath="https://res.cloudinary.com/djszbumd6/image/upload/v1725964867/Screenshot_2024-09-10_160848_elfktq.png"
+              isBlog={false}
+              title="InstantChat"
+              description="InstantChat is a real-time communication platform developed using the MERN stack, enabling features like direct messaging, channel creation, user profile management, and file uploads, with a modern and intuitive interface. The backend is deployed on Render, while the frontend is hosted on Vercel to ensure reliable and fast communication."
+              ghLink="https://github.com/saiteja-kolagani/InstantChat.git"
+              demoLink="https://instant-chat-2-0.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath="https://res.cloudinary.com/djszbumd6/image/upload/v1725070002/Screenshot_2024-08-31_073443_xbawpp.png"
               isBlog={false}
               title="Never Settle"
