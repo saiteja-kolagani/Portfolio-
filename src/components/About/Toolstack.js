@@ -57,14 +57,14 @@ function Toolstack() {
           </h4>
         </div>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      {/* <Col xs={4} md={2} className="tech-icons">
         <div className="tech-icons-container">
           <SiFirebase style={{marginBottom: '8px'}} />
           <h4 style={{fontSize: '16px'}} className="purple">
             Firebase
           </h4>
         </div>
-      </Col>
+      </Col> */}
       <Col xs={4} md={2} className="tech-icons">
         <div className="tech-icons-container">
           <FaGithub style={{marginBottom: '8px'}} />

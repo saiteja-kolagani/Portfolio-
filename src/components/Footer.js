@@ -1,6 +1,6 @@
 import {Container, Row, Col} from 'react-bootstrap'
 import {AiFillGithub} from 'react-icons/ai'
-import {FaLinkedinIn} from 'react-icons/fa'
+import {FaLinkedinIn, FaYoutube} from 'react-icons/fa'
 import {BsTwitter} from 'react-icons/bs'
 
 function Footer() {
@@ -45,6 +45,16 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://www.youtube.com/@syntax_hub"
+                target="_blank"
+                style={{color: 'white'}}
+                rel="noopener noreferrer"
+              >
+                <FaYoutube />
               </a>
             </li>
           </ul>

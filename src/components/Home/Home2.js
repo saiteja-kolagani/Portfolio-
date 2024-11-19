@@ -1,7 +1,7 @@
 import {Container, Row, Col} from 'react-bootstrap'
 import Tilt from 'react-parallax-tilt'
 import {AiFillGithub} from 'react-icons/ai'
-import {FaLinkedinIn} from 'react-icons/fa'
+import {FaLinkedinIn, FaYoutube} from 'react-icons/fa'
 import {BsTwitter} from 'react-icons/bs'
 
 import '../positions.css'
@@ -96,6 +96,16 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://www.youtube.com/@syntax_hub"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <FaYoutube />
                 </a>
               </li>
             </ul>

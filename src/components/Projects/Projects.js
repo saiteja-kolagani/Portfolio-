@@ -19,6 +19,17 @@ function Projects() {
         <Row style={{justifyContent: 'center', paddingBottom: '10px'}}>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath="https://res.cloudinary.com/dmy1fpyxm/image/upload/v1732018843/Screenshot_2024-11-19_174817_lzappn.png"
+              isBlog={false}
+              title="Instagram"
+              description="Instagram Clone Application is a social media platform developed using the MERN stack, replicating the core features of Instagram. It allows users to register and manage their profiles, create and share posts with images, like and comment on posts, and follow/unfollow other users. The platform also offers an explore page to discover trending content and includes real-time notifications for user engagement. Built with a responsive and modern interface, the application ensures smooth user interaction. The backend is hosted on Render, while the frontend is deployed on Vercel, delivering fast, reliable, and scalable performance."
+              ghLink="https://github.com/saiteja-kolagani/Instagram-Clone.git"
+              demoLink="https://instagram1429.vercel.app"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath="https://res.cloudinary.com/djszbumd6/image/upload/v1725964867/Screenshot_2024-09-10_160848_elfktq.png"
               isBlog={false}
               title="InstantChat"
